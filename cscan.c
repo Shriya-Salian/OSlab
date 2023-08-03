@@ -81,7 +81,9 @@ int main()
         printf("\nTotal head movement is %d",TotalHeadMoment);
         return 0;
 }
-/*Enter the number of Requests:
+/*
+Output: 
+Enter the number of Requests:
 7
 Enter the request sequence:
 
