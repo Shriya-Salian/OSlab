@@ -78,7 +78,9 @@ int main()
         return 0;
     
 }
-/*Enter the number of Requests:
+/*
+Output:
+Enter the number of Requests:
 7
 Enter the request sequence:
 82 170 43 140 24 160 190
